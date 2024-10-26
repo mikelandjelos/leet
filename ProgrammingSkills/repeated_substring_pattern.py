@@ -4,3 +4,5 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+
+        return "".join(s[1:] + s[:-1])
