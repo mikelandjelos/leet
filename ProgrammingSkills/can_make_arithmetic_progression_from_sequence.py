@@ -5,21 +5,17 @@ class Solution(object):
         :rtype: bool
         """
 
-        n = len(arr)
-
-        if n <= 2:
+        if len(arr) == 1 or len(arr) == 2:
             return True
 
-        a = min(arr)
-        Sn = sum(arr)
-        d = 2 * (Sn - a) / (n * (n - 1))
+        arr.sort()
 
-        print(a)
-        print(n)
-        print(Sn)
-        print(d)
+        i = 2
+        d = arr[1] - arr[0]
 
-        if d == 0:
-            return True
+        while i < len(arr):
+            if arr[i] - arr[i - 1] != d:
+                return False
+            i += 1
 
-        return n * (n - 1) / 2 == sum(map(lambda num: (num - a) / d, arr))
+        return True
