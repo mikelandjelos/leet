@@ -4,3 +4,5 @@ class Solution(object):
         :type instructions: str
         :rtype: bool
         """
+
+        
