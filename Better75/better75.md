@@ -14,3 +14,7 @@
 8. [Binary Search](./8_BinarySearch.py) - be careful with one-off mistakes, `O(logn)` time (like a tree), `O(1)` space;
 9. [Flood Fill](./9_FloodFill.py) - `O(V + E)` time (where `V = MxN`, `E = MxNx4`, so basically `O(V + E) = O(MxN)`), `O(MxN)` space (same reasoning);
 10. [Lowest Common Ancestor Of BST](./10_LowestCommonAncestorOfBST.py) - preorder, `O(logn)` time, `O(1)` space;
+11. [Balanced Tree](./11_BalancedTree.py) - postorder, `O(logn)` time, `O(1)` space;
+12. [Linked List Cycle](./12_LinkedListCycle.py) - **tortoise and hare algo**, `O(n)` time, `O(1)` memory;
+13. [Implement Queue using Stacks](./13_ImplementQueueUsingStacks.py) - `O(1)` **amortized** pop, `O(1)` push;
+14. [First Bad Version](./14_FirstBadVersion.py) - left binary search, `O(logn)` time, `O(1)` ;
