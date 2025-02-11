@@ -23,4 +23,6 @@
 17. [Longest Palindrome](./17_LongestPalindrome.py) - similar to original palindrome problem, with an extra step;
 18. [Reverse Singly-LL](./18_ReverseLL.py) - three pointers (`prev`, `curr`, `next` - curr starting from `head`), loop while `next` not `null`, `temp` holds `next.next` - draw it on paper - time complexity `O(n)`, space constant;
 19. [Majority Element](./19_MajorityElement.py) - `O(n)` time, `O(1)` space, array must have majority element for the optimal solution to work; easy solution uses hash and `O(n)` space;
-20. [Add Binary](./20_AddBinary.py);
+20. [Add Binary](./20_AddBinary.py) - one loop to max `len`, with default `0`;
+21. [Diameter of Binary tree](./21_DiameterOfBinaryTree.py) - can be done with global variable + DFS height approach, time `O(logn)` (balanced BT), constant space;
+22. [Middle of the LL](./22_MiddleOfTheLL.py);
