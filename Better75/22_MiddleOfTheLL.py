@@ -11,3 +11,16 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        if head is None:
+            return None
+
+        slow = head
+        fast = head.next
+
+        while fast is not None:
+            slow = slow.next
+            fast = fast.next
+            if fast is not None:
+                fast = fast.next
+
+        return slow

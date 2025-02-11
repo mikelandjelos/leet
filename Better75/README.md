@@ -25,4 +25,6 @@
 19. [Majority Element](./19_MajorityElement.py) - `O(n)` time, `O(1)` space, array must have majority element for the optimal solution to work; easy solution uses hash and `O(n)` space;
 20. [Add Binary](./20_AddBinary.py) - one loop to max `len`, with default `0`;
 21. [Diameter of Binary tree](./21_DiameterOfBinaryTree.py) - can be done with global variable + DFS height approach, time `O(logn)` (balanced BT), constant space;
-22. [Middle of the LL](./22_MiddleOfTheLL.py);
+22. [Middle of the LL](./22_MiddleOfTheLL.py) - again, two pointers, tortoise and hare version;
+23. [Maximum Depth of Binary Tree](./23_MaximumDepthOfBT.py) - recursive DFS, iterative BFS and DFS for practice - `O(n)` time;
+24. [Contains Duplicate](./24_ContainsDuplicate.py) - just use a hashset, `O(n)` time and `O(n)` space - can be done brute force, with sorting, and the optimal with set;
