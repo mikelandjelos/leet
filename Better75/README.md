@@ -5,6 +5,7 @@
 ## Problems
 
 1. [Two Sum](./1_TwoSum.py) - use hash map for mapping numbers to their indices, `O(n)` time, `O(n)` space;
+   1. There is also [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) which has one difference - the array is sorted - this problem can be done using two pointer approach in linear time (`O(n)`) and constant space (`O(1)`);
 2. [Valid Parentheses](./2_ValidParentheses.py) - use queue for storing left brackets, `O(n)` time, `O(n)` space;
 3. [Merge Two Sorted Lists](./3_MergeTwoSortedLists.py) - singly-linked list, **didn't do it in-place**, `O(n)` time, `O(n)` space;
 4. [Best Time To Buy And Sell Stocks](./4_BestTimeToBuyAndSellStocks.py) - two pointers, sliding window, `O(n)` time, `O(1)` space;
@@ -28,3 +29,10 @@
 22. [Middle of the LL](./22_MiddleOfTheLL.py) - again, two pointers, tortoise and hare version;
 23. [Maximum Depth of Binary Tree](./23_MaximumDepthOfBT.py) - recursive DFS, iterative BFS and DFS for practice - `O(n)` time;
 24. [Contains Duplicate](./24_ContainsDuplicate.py) - just use a hashset, `O(n)` time and `O(n)` space - can be done brute force, with sorting, and the optimal with set;
+25. [Maximum Subarray](./25_MaximumSubarray.py) - `O(n^3)` worst solution, `O(n^2)` optimization, `O(n)` optimal (**Kadane's Algo**, remove negative prefix);
+26. [Insert Interval](./26_InsertInterval.py) - three edge cases, two with non-overlapping and one with overlapping, linear time and space;
+27. [01 Matrix](./27_01Matrix.py) - `O(MxN)` time and space complexity, it's kinda BSF inspired algorithm - uses queue;
+    1. Same as [Map of Highest Peak question](https://leetcode.com/problems/map-of-highest-peak/description/);
+28. [K Closest Points to Origin](./28_KClosestPointsToOrigin.py) - using minheap insead of sorting gives `O(klogn)` instead `O(nlogn)`, space complexity is `O(1)` because **heapify** is done in-place;
+29. [Longset Substring Without Repeating Characters](./29_LongestSubstringWithoutRepeatingCharacters.py) - sliding window + hashset, `O(n)` time `O(n)` space;
+30. [Three Sum](./30_ThreeSum.py) - sorting to remove duplicates + two pointers approach - gives `O(n^2)` time and `O(1)` space;
