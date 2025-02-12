@@ -36,3 +36,5 @@
 28. [K Closest Points to Origin](./28_KClosestPointsToOrigin.py) - using minheap insead of sorting gives `O(klogn)` instead `O(nlogn)`, space complexity is `O(1)` because **heapify** is done in-place;
 29. [Longset Substring Without Repeating Characters](./29_LongestSubstringWithoutRepeatingCharacters.py) - sliding window + hashset, `O(n)` time `O(n)` space;
 30. [Three Sum](./30_ThreeSum.py) - sorting to remove duplicates + two pointers approach - gives `O(n^2)` time and `O(1)` space;
+31. [BST Level Order Traversal](./31_LevelOrderTraversal.py) - `O(n)` time, `O(n)` space - BFS with level elements buffering, using the `len(q)` property;
+32. [Clone Graph](./32_CloneGraph.py);

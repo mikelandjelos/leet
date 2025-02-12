@@ -12,18 +12,17 @@ class Solution(object):
                 continue
 
             left, right = i + 1, len(nums) - 1
-            target = -num
 
             while left < right:
                 x = nums[left] + nums[right]
-                if x < target:
+                if x < -num:
                     left += 1
-                elif x > target:
+                elif x > -num:
                     right -= 1
                 else:
                     results.append([num, nums[left], nums[right]])
-                    left += 1
                     while left < right and nums[left] == nums[left + 1]:
                         left += 1
+                    left += 1
 
         return results
