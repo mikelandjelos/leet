@@ -40,5 +40,6 @@
 32. [Clone Graph](./32_CloneGraph.py) - DFS to traverse, hashmap to map old to new - time complexity `O(V + E)`, space complexity `O(V)`;
 33. [Evaluate Reverse Polish Notation](./33_EvaluateReversePolishNotation.py) - use stack, be careful with **rounding to zero**, time and space are linear;
 34. [Course Schedule](./34_CourseSchedule.py) - can be solved by using recursive DFS approach, or by using iterative approach - topological sort - both have time complexity `O(V+E)` and space `O(V)`;
-    1. Also [Course Schedule II](./32_2_CourseScheduleII.py) - can be solved using Kahn's algorithm (topological sort);
-35. ...
+    1. Also [Course Schedule II](./32_2_CourseScheduleII.py) - can be solved using **Kahn's algorithm** (topological sort);
+35. [Implement Trie (Prefix Tree)](./35_ImplementTrie.py) - `TrieNode` with hashmap, `insert`, `search` and `startsWith` methods, all with `O(n)` time complexity;
+36. 

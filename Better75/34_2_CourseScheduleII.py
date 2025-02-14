@@ -29,5 +29,7 @@ class Solution(object):
 
                 if indegrees[neighbor] == 0:
                     q.append(neighbor)
+                elif indegrees[neighbor] < 0:
+                    return []
 
         return sequence if len(sequence) == numCourses else []
