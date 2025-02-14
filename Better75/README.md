@@ -37,4 +37,8 @@
 29. [Longset Substring Without Repeating Characters](./29_LongestSubstringWithoutRepeatingCharacters.py) - sliding window + hashset, `O(n)` time `O(n)` space;
 30. [Three Sum](./30_ThreeSum.py) - sorting to remove duplicates + two pointers approach - gives `O(n^2)` time and `O(1)` space;
 31. [BST Level Order Traversal](./31_LevelOrderTraversal.py) - `O(n)` time, `O(n)` space - BFS with level elements buffering, using the `len(q)` property;
-32. [Clone Graph](./32_CloneGraph.py);
+32. [Clone Graph](./32_CloneGraph.py) - DFS to traverse, hashmap to map old to new - time complexity `O(V + E)`, space complexity `O(V)`;
+33. [Evaluate Reverse Polish Notation](./33_EvaluateReversePolishNotation.py) - use stack, be careful with **rounding to zero**, time and space are linear;
+34. [Course Schedule](./34_CourseSchedule.py) - can be solved by using recursive DFS approach, or by using iterative approach - topological sort - both have time complexity `O(V+E)` and space `O(V)`;
+    1. Also [Course Schedule II](./32_2_CourseScheduleII.py) - can be solved using Kahn's algorithm (topological sort);
+35. ...
