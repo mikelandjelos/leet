@@ -44,3 +44,4 @@
 35. [Implement Trie (Prefix Tree)](./35_ImplementTrie.py) - `TrieNode` with hashmap, `insert`, `search` and `startsWith` methods, all with `O(n)` time complexity;
 36. [Coin Change](./36_CoinChange.py) - greedy not applicable, top-down backtracking with memoization, bottom-up DP for optimal solution - `O(NxK)` time and `O(N)` space, where `N` is amount and `K` is number of coins;
 37. [Product of Array Except Self](./37_ProductOfArrayExceptSelf.py) - can be done using prefix and postfix array in linear time and space; optimal - 2 passes, computing the prefix summs - `O(2n) == O(n)` time;
+38. [Min Stack](./38_MinStack.py) - two arrays - one for the actual stack, and one "history of minimums" stack - `O(1)` `getMin` time complexity, and `O(n)` space complexity for ensuring constant time;
