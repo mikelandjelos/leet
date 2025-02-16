@@ -47,3 +47,4 @@
 38. [Min Stack](./38_MinStack.py) - two arrays - one for the actual stack, and one "history of minimums" stack - `O(1)` `getMin` time complexity, and `O(n)` space complexity for ensuring constant time;
 39. [Validate BST](./39_ValidateBST.py) - top-down recursive approach with interval propagation - time complexity `O(n)`, and constant space;
 40. [Number of Islands](./40_NumberOfIslands.py) - iterative DFS (using stack) when island found until its fully mapped, skip water and already mapped parts, `O(MxN)` space and time complexity;
+41. [Rotten Oranges](./41_RottingOranges.py);
