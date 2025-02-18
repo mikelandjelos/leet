@@ -57,3 +57,4 @@
 44. 🟡 [Permutations](./44_Permutations.py) - recursion + iteration - `O(N!)` problem - optimal solution;
 45. 🟡 [Merge Intervals](./45_MergeIntervals.py) - sorting the interval array (pivot is the starting of the interval) is the key to solving - `O(nlogn)` time complexity;
 46. 🟡 [Lowest Common Ancestor (LCA) of a Binary Tree](./46_LCAofBST.py) - `O(n)` time and `O(1)` space - 3 cases (root is left, root is right, or root is neither);
+47. 🟡 [Time-based KV Store](./47_TimeBasedKVStore.py);
