@@ -55,3 +55,4 @@
 42. 🟡 [Search in Rotated Sorted Array](./42_SearchInRotatedSortedArray.py) - left and right sorted arrays (conditions to find out in which part you are), subcases for each - time is logarithmic (`O(logN)`) and space is constant;
 43. 🟡 [Combination Sum](./43_CombinationSum.py) - backtracking, exponential time (`O(2^N)`) and space complexity;
 44. 🟡 [Permutations](./44_Permutations.py) - recursion + iteration - `O(N!)` problem - optimal solution;
+45. 🟡 [Merge Intervals](./45_MergeIntervals.py) - sorting the interval array (pivot is the starting of the interval) is the key to solving - `O(nlogn)` time complexity ;
