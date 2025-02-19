@@ -64,4 +64,5 @@
        1. [NeetCode problem](https://neetcode.io/problems/count-connected-components);
        2. [YouTube Video](https://www.youtube.com/watch?v=8f1XPm4WOUc);
 49. 🟡 [Sort Colors](./49_SortColors.py) - bucket sort, `O(1)` space (in-place), `O(N)` time complexity;
-50. 🟡 [Word Break](./50_WordBreak.py) - **trie** problem;
+50. 🟡 [Word Break](./50_WordBreak.py) - DP problem, time complexity `O(N^2 * M)`, space complexity `O(M)`, where `N` is number of words in word dictionary, and `M` is number of letter in given word;
+51. 
