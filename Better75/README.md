@@ -63,3 +63,5 @@
     2. 🟡 [Number of Connected Components in an Undirected Graph](./48_1NumberOfConnectedComponents.py) first:
        1. [NeetCode problem](https://neetcode.io/problems/count-connected-components);
        2. [YouTube Video](https://www.youtube.com/watch?v=8f1XPm4WOUc);
+49. 🟡 [Sort Colors](./49_SortColors.py) - bucket sort, `O(1)` space (in-place), `O(N)` time complexity;
+50. 🟡 [Word Break](./50_WordBreak.py) - **trie** problem;
