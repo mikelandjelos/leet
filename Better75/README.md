@@ -57,4 +57,9 @@
 44. 🟡 [Permutations](./44_Permutations.py) - recursion + iteration - `O(N!)` problem - optimal solution;
 45. 🟡 [Merge Intervals](./45_MergeIntervals.py) - sorting the interval array (pivot is the starting of the interval) is the key to solving - `O(nlogn)` time complexity;
 46. 🟡 [Lowest Common Ancestor (LCA) of a Binary Tree](./46_LCAofBST.py) - `O(n)` time and `O(1)` space - 3 cases (root is left, root is right, or root is neither);
-47. 🟡 [Time-based KV Store](./47_TimeBasedKVStore.py);
+47. 🟡 [Time-based KV Store](./47_TimeBasedKVStore.py) - binary-search, `O(logN)` time complexity;
+48. 🟡 [Accounts Merge](./48_AccountsMerge.py) - basically Union-Find problem, using `defaultdict` for mapping inversion - runs in `O(NlogN)` where `N`;
+    1. Union-Find - one of the [top 5 graph algos]((https://www.youtube.com/watch?v=utDu3Q7Flrw&t=295s));
+    2. 🟡 [Number of Connected Components in an Undirected Graph](./48_1NumberOfConnectedComponents.py) first:
+       1. [NeetCode problem](https://neetcode.io/problems/count-connected-components);
+       2. [YouTube Video](https://www.youtube.com/watch?v=8f1XPm4WOUc);
