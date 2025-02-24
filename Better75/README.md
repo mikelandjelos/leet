@@ -65,6 +65,8 @@
        2. [YouTube Video](https://www.youtube.com/watch?v=8f1XPm4WOUc);
 49. 🟡 [Sort Colors](./49_SortColors.py) - bucket sort, `O(1)` space (in-place), `O(N)` time complexity;
 50. 🟡 [Word Break](./50_WordBreak.py) - DP problem, time complexity `O(N^2 * M)`, space complexity `O(M)`, where `N` is number of words in word dictionary, and `M` is number of letter in given word;
-51. 🟡 [Partition Equal Subset Problem](./51_PartitionEqualSubsetProblem.py) - basically done by adding aggregate sums into hash set - dynamic programming problem - time complexity `O(n * sum(nums))`, space complexity `O(sum(nums))`;
+51. 🟡 [Partition Equal Subset Problem](./51_PartitionEqualSubsetProblem.py);
+    1. Can be done recursively in `O(2^N)` time, `O(1)` space;
+    2. Can be done by adding 'aggregate sums' into hash set - bottom-up i.e. dynamic programming solution - time complexity `O(n * sum(nums))`, space complexity `O(sum(nums))`;
 52. 🟡 [String To Integer (Atoi)](./52_StringToIntegerAtoi.py) - `O(n)` time and `O(1)` space - fun way to learn how to convert numbers 'from the front';
 53. 🟡 [Spiral Matrix](./53_SpiralMatrix.py);
