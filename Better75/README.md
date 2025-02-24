@@ -69,4 +69,5 @@
     1. Can be done recursively in `O(2^N)` time, `O(1)` space;
     2. Can be done by adding 'aggregate sums' into hash set - bottom-up i.e. dynamic programming solution - time complexity `O(n * sum(nums))`, space complexity `O(sum(nums))`;
 52. 🟡 [String To Integer (Atoi)](./52_StringToIntegerAtoi.py) - `O(n)` time and `O(1)` space - fun way to learn how to convert numbers 'from the front';
-53. 🟡 [Spiral Matrix](./53_SpiralMatrix.py);
+53. 🟡 [Spiral Matrix](./53_SpiralMatrix.py) - initialize top, bottom, left and right pointers (kinda like 2D two-pointer approach) - `O(MxN)` time and constant space;
+54. 🟡 [Subsets](./54_Subsets.py) - backtracking, recursion, `O(n * 2^n)` time complexity problem;
