@@ -74,4 +74,5 @@
 55. 🟡 [Binary Tree Rightside View](./55_BinaryTreeRightideView.py) - order level traversal, `O(n)` time and space complexity;
 56. 🟡 [Longest Palindromic Substring](./56_LongestPalindromicSubstring.py) - expanding outwards of every letter in a string, checking for a palindrome - `O(N^2)` time, `O(N)` space complexity;
 57. 🟡 [Unique Paths](./57_UniquePaths.py) - dynamic programming - `O(MxN)` time, `O(N)` space (`M` is number of rows, `N` is number of columns);
-58. 🟡 [Construct Binary Tree from Preorder and Inorder Traversal](./58_ConstructBTFromPreorderAndInorder.py);
+58. 🟡 [Construct Binary Tree from Preorder and Inorder Traversal](./58_ConstructBTFromPreorderAndInorder.py) - create Inorder map, and do the preorder traversal - use two pointers (`left` and `right` for recursion stoppage) - `O(n)` time and space;
+59. 🟡 [Container With Most Water](./59_ContainerWithMostWater.py) - two pointer linear time (and constant space) approach;
