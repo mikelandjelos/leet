@@ -72,4 +72,5 @@
 53. 🟡 [Spiral Matrix](./53_SpiralMatrix.py) - initialize top, bottom, left and right pointers (kinda like 2D two-pointer approach) - `O(MxN)` time and constant space;
 54. 🟡 [Subsets](./54_Subsets.py) - backtracking, recursion, `O(n * 2^n)` time complexity problem;
 55. 🟡 [Binary Tree Rightside View](./55_BinaryTreeRightideView.py) - order level traversal, `O(n)` time and space complexity;
-56. 🟡 [Longest Palindromic Substring](./56_LongestPalindromicSubstring.py);
+56. 🟡 [Longest Palindromic Substring](./56_LongestPalindromicSubstring.py) - expanding outwards of every letter in a string, checking for a palindrome - `O(N^2)` time, `O(N)` space complexity;
+57. 🟡 [Unique Paths](./57_UniquePaths.py) - dynamic programming - `O(MxN)` time, `O(N)` space (`M` is number of rows, `N` is number of columns);
