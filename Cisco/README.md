@@ -7,8 +7,8 @@
 
 ## LinkedIn List
 
-1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - [solution](./1FriendsOfAppropriateAges.py);  
-2. [ ] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/)
+1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - linear problem, hashmaps [solution](./1FriendsOfAppropriateAges.py);
+2. [ ] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - [solution](./2BinaryTreeCameras.py);
 3. [ ] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/)
 4. [ ] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/)
 5. [ ] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)
