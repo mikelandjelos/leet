@@ -11,7 +11,7 @@
 2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - non-linear problem, DFS [solution](./2BinaryTreeCameras.py);
 3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - non-linear problem, DP [solution](./3MaximalSquare.py);
 4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - non-linear problem, DP [solution](./4BurstBaloons.py);
-5. [ ] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)
+5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - linear, combinatorics [solution](./5WaysToSplitArrayIntoGoodSubarrays.py);
 6. [ ] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 7. [ ] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/)
 8. [ ] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/)
