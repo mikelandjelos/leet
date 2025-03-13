@@ -10,7 +10,7 @@
 1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - linear problem, hashmaps [solution](./1FriendsOfAppropriateAges.py);
 2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - non-linear problem, DFS [solution](./2BinaryTreeCameras.py);
 3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - non-linear problem, DP [solution](./3MaximalSquare.py);
-4. [ ] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/)
+4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - non-linear problem, DP [solution](./4BurstBaloons.py);
 5. [ ] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)
 6. [ ] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 7. [ ] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/)
