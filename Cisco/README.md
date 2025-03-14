@@ -7,12 +7,12 @@
 
 ## LinkedIn List
 
-1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - linear problem, hashmaps [solution](./1FriendsOfAppropriateAges.py);
-2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - non-linear problem, DFS [solution](./2BinaryTreeCameras.py);
-3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - non-linear problem, DP [solution](./3MaximalSquare.py);
-4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - non-linear problem, DP [solution](./4BurstBaloons.py);
-5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - linear, combinatorics [solution](./5WaysToSplitArrayIntoGoodSubarrays.py);
-6. [ ] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
+1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - linear problem, **hashing** [solution](./1FriendsOfAppropriateAges.py);
+2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - non-linear problem, **DFS** [solution](./2BinaryTreeCameras.py);
+3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - non-linear problem, top-down memoization **DP** [solution](./3MaximalSquare.py);
+4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - non-linear problem, top-down memoization **DP** [solution](./4BurstBaloons.py);
+5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - linear, **math** (combinatorics) [solution](./5WaysToSplitArrayIntoGoodSubarrays.py);
+6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - top-down memoization **DP** [solution](./6MaximumNumberOfPointsWithCost.py);
 7. [ ] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/)
 8. [ ] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/)
 9. [ ] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
@@ -26,7 +26,7 @@
 
 ## GitHub List
 
-1. [ ] [**212. 🔴 Word Search II**](https://leetcode.com/problems/word-search-ii/description/)
+1. [ ] [**212. 🔴 Word Search II**](https://leetcode.com/problems/word-search-ii/description/) - do the [**79. 🟡 Word Search**](https://leetcode.com/problems/word-search/description/) first;
 2. [ ] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/)
 3. [ ] [**53. 🟡 Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/description/)
 4. [ ] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/)
@@ -37,13 +37,12 @@
 9. [ ] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/)
 10. [ ] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/)
 11. [ ] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/)
-12. [ ] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/)
-13. [ ] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/)
-14. [ ] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/)
-15. [ ] [**63. 🟡 Unique Paths II**](https://leetcode.com/problems/unique-paths-ii/description/)
-16. [ ] [**518. 🟡 Coin Change II**](https://leetcode.com/problems/coin-change-ii/description/)
-17. [ ] [**278. 🟢 First Bad Version**](https://leetcode.com/problems/first-bad-version/description/)
-18. [ ] [**1854. 🟢 Maximum Population Year**](https://leetcode.com/problems/maximum-population-year/description/)
-19. [ ] [**121. 🟢 Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-20. [ ] [**724. 🟢 Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/)
-21. [ ] [**56. 🟡 Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
+12. [ ] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/)
+13. [ ] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/)
+14. [ ] [**63. 🟡 Unique Paths II**](https://leetcode.com/problems/unique-paths-ii/description/)
+15. [ ] [**518. 🟡 Coin Change II**](https://leetcode.com/problems/coin-change-ii/description/)
+16. [ ] [**278. 🟢 First Bad Version**](https://leetcode.com/problems/first-bad-version/description/)
+17. [ ] [**1854. 🟢 Maximum Population Year**](https://leetcode.com/problems/maximum-population-year/description/)
+18. [ ] [**121. 🟢 Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+19. [ ] [**724. 🟢 Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/)
+20. [ ] [**56. 🟡 Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
