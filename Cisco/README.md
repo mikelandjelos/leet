@@ -13,7 +13,7 @@
 4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - non-linear problem, top-down memoization **DP** [solution](./4BurstBaloons.py);
 5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - linear, **math** (combinatorics) [solution](./5WaysToSplitArrayIntoGoodSubarrays.py);
 6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - top-down memoization **DP** [solution](./6MaximumNumberOfPointsWithCost.py);
-7. [ ] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/)
+7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - implicit **two-pointers** (rolling state **DP**) [solution](./7BestSightseeingPair.py);
 8. [ ] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/)
 9. [ ] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)
 10. [ ] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)
