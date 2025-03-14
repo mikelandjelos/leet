@@ -16,7 +16,7 @@
 7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - **two-pointers** (or rolling state **DP**) [solution](./7BestSightseeingPair.py);
 8. [x] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) - **DP** [solution](./8LongestNonDecreasingSubarrayFromTwoArrays.py);
 9. [x] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) - **DP** [solution](./9MaximumNumberOfJumpsToReachTheLastIndex.py)
-10. [ ] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)
+10. [x] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)
 11. [ ] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/)
 12. [ ] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/)
 13. [ ] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/)
