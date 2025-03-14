@@ -39,9 +39,7 @@ class Solution(object):
                     available_boxes.add(new_box)
 
             newly_opened_boxes = extra_keys & available_boxes
-            for newly_opened_box in newly_opened_boxes:
-                ready_boxes.append(newly_opened_box)
-
+            ready_boxes.extend(newly_opened_boxes)
             available_boxes -= newly_opened_boxes
             extra_keys -= newly_opened_boxes
 
