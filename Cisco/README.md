@@ -20,8 +20,8 @@
 11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS** [solution](./11MaximumCandiesYouCanGetFromBoxes.py);
 12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP** [solution](./12StrangePrinter.py);
 13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **DP**/**sliding-window** [solution](./13MaximumProductSubarray.py);
-14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force** [solution](./14LuckyNumbersInAMatrix.py)
-15. [ ] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/)
+14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force** [solution](./14LuckyNumbersInAMatrix.py);
+15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**) [solution](./15NetworkDelayTime.py);
 
 ## GitHub List
 
