@@ -7,21 +7,21 @@
 
 ## LinkedIn List
 
-1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - **hashing** [solution](./1FriendsOfAppropriateAges.py);
-2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - **DFS** [solution](./2BinaryTreeCameras.py);
-3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - **DP** [solution](./3MaximalSquare.py);
-4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - **DP** [solution](./4BurstBaloons.py);
-5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - **math** (combinatorics) [solution](./5WaysToSplitArrayIntoGoodSubarrays.py);
-6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - **DP** [solution](./6MaximumNumberOfPointsWithCost.py);
-7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - **two-pointers** (or rolling state **DP**) [solution](./7BestSightseeingPair.py);
-8. [x] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) - **DP** [solution](./8LongestNonDecreasingSubarrayFromTwoArrays.py);
-9. [x] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) - **DP** [solution](./9MaximumNumberOfJumpsToReachTheLastIndex.py);
-10. [x] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) - **math** [solution](./10FindTheMaximumAchievableNumber.py);
-11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS** [solution](./11MaximumCandiesYouCanGetFromBoxes.py);
-12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP** [solution](./12StrangePrinter.py);
-13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **DP**/**sliding-window** [solution](./13MaximumProductSubarray.py);
-14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force** [solution](./14LuckyNumbersInAMatrix.py);
-15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**) [solution](./15NetworkDelayTime.py);
+1. [x] [**825. 🟡 Friends Of Appropriate Ages**](https://leetcode.com/problems/friends-of-appropriate-ages/description/) - **hashing** [solution](./LinkedInList/1FriendsOfAppropriateAges.py);
+2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - **DFS** [solution](./LinkedInList/2BinaryTreeCameras.py);
+3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - **DP** [solution](./LinkedInList/3MaximalSquare.py);
+4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - **DP** [solution](./LinkedInList/4BurstBaloons.py);
+5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - **math** (combinatorics) [solution](./LinkedInList/5WaysToSplitArrayIntoGoodSubarrays.py);
+6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - **DP** [solution](./LinkedInList/6MaximumNumberOfPointsWithCost.py);
+7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - **two-pointers** (or rolling state **DP**) [solution](./LinkedInList/7BestSightseeingPair.py);
+8. [x] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) - **DP** [solution](./LinkedInList/8LongestNonDecreasingSubarrayFromTwoArrays.py);
+9. [x] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) - **DP** [solution](./LinkedInList/9MaximumNumberOfJumpsToReachTheLastIndex.py);
+10. [x] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) - **math** [solution](./LinkedInList/10FindTheMaximumAchievableNumber.py);
+11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS** [solution](./LinkedInList/11MaximumCandiesYouCanGetFromBoxes.py);
+12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP** [solution](./LinkedInList/12StrangePrinter.py);
+13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **DP**/**sliding-window** [solution](./LinkedInList/13MaximumProductSubarray.py);
+14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force** [solution](./LinkedInList/14LuckyNumbersInAMatrix.py);
+15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**) [solution](./LinkedInList/15NetworkDelayTime.py);
 
 ## GitHub List
 
