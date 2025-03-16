@@ -20,15 +20,15 @@
 11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS** [solution](./LinkedInList/11MaximumCandiesYouCanGetFromBoxes.py);
 12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP** [solution](./LinkedInList/12StrangePrinter.py);
 13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **sliding-window** [solution](./LinkedInList/13_2MaximumProductSubarray.py);
-    1. [x] [**53. 🟡 Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/description/) - **sliding-window** [solution]
+    1. [x] [**53. 🟡 Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/description/) - **sliding-window** [solution](./LinkedInList/13_1MaximumSubarray.py);
 14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force** [solution](./LinkedInList/14LuckyNumbersInAMatrix.py);
 15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**) [solution](./LinkedInList/15NetworkDelayTime.py);
 
 ## GitHub List
 
 1. [x] [**212. 🔴 Word Search II**](https://leetcode.com/problems/word-search-ii/description/) - **backtracking** + **trie** [solution](./1_2WordSearchII.py);
-   1. [x] [**79. 🟡 Word Search**](https://leetcode.com/problems/word-search/description/) - **backtracking** (recursive DFS) solution [solution](./1_1WordSearch.py);
-2. [ ] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/)
+   1. [x] [**79. 🟡 Word Search**](https://leetcode.com/problems/word-search/description/) - **backtracking** (recursive DFS) [solution](./1_1WordSearch.py);
+2. [x] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/) - **matrix** [solution](./2RotateTheMatrixInPlace.py);
 3. [ ] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/)
 4. [ ] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/)
 5. [ ] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/)
@@ -41,8 +41,8 @@
 12. [ ] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/)
 13. [ ] [**63. 🟡 Unique Paths II**](https://leetcode.com/problems/unique-paths-ii/description/)
 14. [ ] [**518. 🟡 Coin Change II**](https://leetcode.com/problems/coin-change-ii/description/)
-16. [ ] [**278. 🟢 First Bad Version**](https://leetcode.com/problems/first-bad-version/description/)
-17. [ ] [**1854. 🟢 Maximum Population Year**](https://leetcode.com/problems/maximum-population-year/description/)
-18. [ ] [**121. 🟢 Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-19. [ ] [**724. 🟢 Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/)
-20. [ ] [**56. 🟡 Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
+15. [ ] [**278. 🟢 First Bad Version**](https://leetcode.com/problems/first-bad-version/description/)
+16. [ ] [**1854. 🟢 Maximum Population Year**](https://leetcode.com/problems/maximum-population-year/description/)
+17. [ ] [**121. 🟢 Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+18. [ ] [**724. 🟢 Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/)
+19. [ ] [**56. 🟡 Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
