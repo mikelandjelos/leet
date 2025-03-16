@@ -30,7 +30,7 @@
    1. [x] [**79. 🟡 Word Search**](https://leetcode.com/problems/word-search/description/) - **backtracking** (recursive DFS) [solution](./1_1WordSearch.py);
 2. [x] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/) - **matrix** [solution](./2RotateTheMatrixInPlace.py);
 3. [x] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/) - **two-pointers** [solution](./3ExpressiveWords.py);
-4. [ ] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/)
+4. [x] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/) - **DP** [solution](./4DecodeWays.py);
 5. [ ] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/)
 6. [ ] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/)
 7. [ ] [**198. 🟡 House Robber**](https://leetcode.com/problems/house-robber/description/)
