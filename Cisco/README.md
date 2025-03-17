@@ -34,7 +34,7 @@
 5. [x] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/) - **RE** [solution](./5ValidIpAddress.py);
 6. [x] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/) - **stack** [solution](./6DecodeString.py);
 7. [x] [**198. 🟡 House Robber**](https://leetcode.com/problems/house-robber/description/) - **DP** [solution](./7HouseRobber.py);
-8. [ ] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/)
+8. [x] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) - **two-pointer** [solution](./8MaximumDifferenceBetweenIncreasingElements.py);
 9. [ ] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/)
 10. [ ] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/)
 11. [ ] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/)
