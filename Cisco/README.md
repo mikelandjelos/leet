@@ -32,7 +32,7 @@
 3. [x] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/) - **two-pointers** [solution](./3ExpressiveWords.py);
 4. [x] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/) - **DP** [solution](./4DecodeWays.py);
 5. [x] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/) - **RE** [solution](./5ValidIpAddress.py);
-6. [ ] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/)
+6. [x] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/) - **stack** [solution](./6DecodeString.py);
 7. [ ] [**198. 🟡 House Robber**](https://leetcode.com/problems/house-robber/description/)
 8. [ ] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/)
 9. [ ] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/)
