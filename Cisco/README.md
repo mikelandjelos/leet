@@ -38,7 +38,7 @@
 9. [x] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/) - **stack** [solution](./9ValidParentheses.py);
 10. [x] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/) - **math** (number systems) [solution](./10NumberOf1Bits.py);
 11. [x] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) - **sorting** (bucket) [solution](./11TopKFrequentElements.py);
-12. [ ] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/)
+12. [x] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/) - **bitmask backtracking** [solution](./12BeautifulArrangement.py);
 13. [ ] [**63. 🟡 Unique Paths II**](https://leetcode.com/problems/unique-paths-ii/description/)
 14. [ ] [**518. 🟡 Coin Change II**](https://leetcode.com/problems/coin-change-ii/description/)
 15. [ ] [**278. 🟢 First Bad Version**](https://leetcode.com/problems/first-bad-version/description/)
