@@ -11,10 +11,11 @@
    1. [x] Python [solution](./LinkedInList/Python/1FriendsOfAppropriateAges.py);
    2. [x] C++ [solution](./LinkedInList/C++/1FriendsOfAppropriateAges.cpp);
 2. [x] [**968. 🔴 Binary Tree Cameras**](https://leetcode.com/problems/binary-tree-cameras/description/) - **DFS** (postorder):
-   1. [ ] Python [solution](./LinkedInList/Python/2BinaryTreeCameras.py);
-   2. [ ] C++ [solution](./LinkedInList/C++/2BinaryTreeCameras.cpp);
+   1. [x] Python [solution](./LinkedInList/Python/2BinaryTreeCameras.py);
+   2. [x] C++ [solution](./LinkedInList/C++/2BinaryTreeCameras.cpp);
 3. [x] [**221. 🟡 Maximal Square**](https://leetcode.com/problems/maximal-square/description/) - **DP**:
-   1. [ ] Python [solution](./LinkedInList/Python/3MaximalSquare.py);
+   1. [x] Python [solution](./LinkedInList/Python/3MaximalSquare.py);
+   2. [x] C++ [solution](./LinkedInList/C++/3MaximalSquare.cpp);
 4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - **DP**:
    1. [ ] Python [solution](./LinkedInList/Python/4BurstBaloons.py);
 5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - **math**:
