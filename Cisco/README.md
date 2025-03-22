@@ -23,7 +23,8 @@
    1. [x] Python [solution](./LinkedInList/Python/5WaysToSplitArrayIntoGoodSubarrays.py);
    2. [x] C++ [solution](./LinkedInList/C++/5WaysToSplitArrayIntoGoodSubarrays.cpp);
 6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - **DP**:
-   1. [ ] Python [solution](./LinkedInList/Python/6MaximumNumberOfPointsWithCost.py);
+   1. [x] Python [solution](./LinkedInList/Python/6MaximumNumberOfPointsWithCost.py);
+   2. [x] C++ [solution](./LinkedInList/C++/6MaximumNumberOfPointsWithCost.cpp);
 7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - **two-pointers** (or rolling state **DP**):
    1. [ ] Python [solution](./LinkedInList/Python/7BestSightseeingPair.py);
 8. [x] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) - **DP**:
