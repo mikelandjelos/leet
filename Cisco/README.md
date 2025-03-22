@@ -38,7 +38,8 @@
     1. [x] Python [solution](./LinkedInList/Python/10FindTheMaximumAchievableNumber.py);
     2. [x] C++ [solution](./LinkedInList/C++/);
 11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS**:
-    1. [ ] Python [solution](./LinkedInList/Python/11MaximumCandiesYouCanGetFromBoxes.py);
+    1. [x] Python [solution](./LinkedInList/Python/11MaximumCandiesYouCanGetFromBoxes.py);
+    2. [x] C++ [solution](./LinkedInList/C++/11MaximumCandiesYouCanGetFromBoxes.cpp);
 12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP**:
     1. [ ] Python [solution](./LinkedInList/Python/12StrangePrinter.py);
 13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **sliding-window**:
