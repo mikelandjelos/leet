@@ -32,9 +32,11 @@
    1. [x] Python [solution](./LinkedInList/Python/8LongestNonDecreasingSubarrayFromTwoArrays.py);
    2. [x] C++ [solution](./LinkedInList/C++/8LongestNonDecreasingSubarrayFromTwoArrays.cpp);
 9. [x] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) - **DP**:
-   1. [ ] Python [solution](./LinkedInList/Python/9MaximumNumberOfJumpsToReachTheLastIndex.py);
+   1. [x] Python [solution](./LinkedInList/Python/9MaximumNumberOfJumpsToReachTheLastIndex.py);
+   2. [x] C++ [solution](./LinkedInList/C++/9MaximumNumberOfJumpsToReachTheLastIndex.cpp);
 10. [x] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) - **math**:
-    1. [ ] Python [solution](./LinkedInList/Python/10FindTheMaximumAchievableNumber.py);
+    1. [x] Python [solution](./LinkedInList/Python/10FindTheMaximumAchievableNumber.py);
+    2. [x] C++ [solution](./LinkedInList/C++/);
 11. [x] [**1298. 🔴 Maximum Candies You Can Get from Boxes**](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) - **BFS**:
     1. [ ] Python [solution](./LinkedInList/Python/11MaximumCandiesYouCanGetFromBoxes.py);
 12. [x] [**664. 🔴 Strange Printer**](https://leetcode.com/problems/strange-printer/description/) - **DP**:
