@@ -29,7 +29,8 @@
    1. [x] Python [solution](./LinkedInList/Python/7BestSightseeingPair.py);
    2. [x] C++ [solution](./LinkedInList/C++/7BestSightSeeingPair.cpp);
 8. [x] [**2771. 🟡 Longest Non-decreasing Subarray From Two Arrays**](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) - **DP**:
-   1. [ ] Python [solution](./LinkedInList/Python/8LongestNonDecreasingSubarrayFromTwoArrays.py);
+   1. [x] Python [solution](./LinkedInList/Python/8LongestNonDecreasingSubarrayFromTwoArrays.py);
+   2. [x] C++ [solution](./LinkedInList/C++/8LongestNonDecreasingSubarrayFromTwoArrays.cpp);
 9. [x] [**2770. 🟡 Maximum Number of Jumps to Reach the Last Index**](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) - **DP**:
    1. [ ] Python [solution](./LinkedInList/Python/9MaximumNumberOfJumpsToReachTheLastIndex.py);
 10. [x] [**2769. 🟢 Find the Maximum Achievable Number**](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) - **math**:
