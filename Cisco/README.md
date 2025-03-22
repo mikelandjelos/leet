@@ -19,8 +19,9 @@
 4. [x] [**312. 🔴 Burst Balloons**](https://leetcode.com/problems/burst-balloons/description/) - **DP**:
    1. [x] Python [solution](./LinkedInList/Python/4BurstBaloons.py);
    2. [x] C++ [solution](./LinkedInList/C++/4BurstBaloons.cpp);
-5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - **math**:
-   1. [ ] Python (combinatorics) [solution](./LinkedInList/Python/5WaysToSplitArrayIntoGoodSubarrays.py);
+5. [x] [**2750. 🟡 Ways to Split Array Into Good Subarrays**](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) - **math** (combinatorics):
+   1. [x] Python [solution](./LinkedInList/Python/5WaysToSplitArrayIntoGoodSubarrays.py);
+   2. [x] C++ [solution](./LinkedInList/C++/5WaysToSplitArrayIntoGoodSubarrays.cpp);
 6. [x] [**1937. 🟡 Maximum Number of Points with Cost**](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) - **DP**:
    1. [ ] Python [solution](./LinkedInList/Python/6MaximumNumberOfPointsWithCost.py);
 7. [x] [**1014. 🟡 Best Sightseeing Pair**](https://leetcode.com/problems/best-sightseeing-pair/description/) - **two-pointers** (or rolling state **DP**):
