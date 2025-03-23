@@ -53,7 +53,8 @@
     1. [x] Python [solution](./LinkedInList/Python/14LuckyNumbersInAMatrix.py);
     2. [x] C++ [solution](./LinkedInList/C++/14LuckyNumbersInMatrix.cpp);
 15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**):
-    1. [ ] Python [solution](./LinkedInList/Python/15NetworkDelayTime.py);
+    1. [x] Python [solution](./LinkedInList/Python/15NetworkDelayTime.py);
+    2. [x] C++ [solution](./LinkedInList/C++/15NetworkDelayTime.cpp);
 
 ## GitHub List
 
