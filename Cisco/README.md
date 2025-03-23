@@ -45,8 +45,10 @@
     2. [x] C++ [solution](./LinkedInList/C++/12StrangePrinter.cpp);
 13. [x] [**152. 🟡 Maximum Product Subarray**](https://leetcode.com/problems/maximum-product-subarray/description/) - **sliding-window**:
     1. [x] [**53. 🟡 Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/description/) - **sliding-window**:
-       1. [ ] Python [solution](./LinkedInList/Python/13_1MaximumSubarray.py);
-    2. [ ] Python [solution](./LinkedInList/Python/13_2MaximumProductSubarray.py);
+       1. [x] Python [solution](./LinkedInList/Python/13_1MaximumSubarray.py);
+       2. [x] C++ [solution](./LinkedInList/C++/)
+    2. [x] Python [solution](./LinkedInList/Python/13_2MaximumProductSubarray.py);
+    3. [x] C++ [solution](./LinkedInList/C++/13_2MaximumProductSubarray.cpp);
 14. [x] [**1380. 🟢 Lucky Numbers in a Matrix**](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) - **brute-force**:
     1. [ ] Python [solution](./LinkedInList/Python/14LuckyNumbersInAMatrix.py);
 15. [x] [**743. 🟡 Network Delay Time**](https://leetcode.com/problems/network-delay-time/description/) - **BFS** + **Heap** (**Dijkstra**):
