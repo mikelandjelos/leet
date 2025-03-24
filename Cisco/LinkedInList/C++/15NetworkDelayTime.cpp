@@ -1,18 +1,12 @@
 #include <vector>
 #include <queue>
-#include <algorithm>
 #include <limits.h>
+#include <algorithm>
 
 using namespace std;
 
-template <typename T, typename Compare = greater<T>>
-using Heap = priority_queue<T, vector<T>, Compare>;
-
 template <typename T>
-using MaxHeap = Heap<T, less<T>>;
-
-template <typename T>
-using MinHeap = Heap<T, greater<T>>;
+using MinHeap = priority_queue<T, vector<T>, greater<T>>;
 
 class Solution
 {
@@ -25,31 +19,31 @@ public:
             graph[edge[0] - 1].emplace_back(edge[1] - 1, edge[2]);
 
         MinHeap<pair<int, int>> pq;
+        vector<int> distances(n, INT_MAX);
+        
         pq.emplace(0, k - 1);
+        distances[k - 1] = 0;
 
-        vector<int> dist(n, INT_MAX);
-        dist[k - 1] = 0;
-
-        while (!pq.empty()) // O((V+E) log V)
+        while (!pq.empty())
         {
-            auto [time, node] = pq.top();
+            auto [timeToCurrent, current] = pq.top();
             pq.pop();
 
-            if (time > dist[node])
+            if (timeToCurrent > distances[current])
                 continue;
 
-            for (const auto &[neighbor, weight] : graph[node])
+            for (const auto &[neighbor, distanceToNeighbor] : graph[current])
             {
-                int newTime = time + weight;
-                if (newTime < dist[neighbor])
-                {
-                    dist[neighbor] = newTime;
-                    pq.emplace(newTime, neighbor);
-                }
+                int timeToNeighbor = timeToCurrent + distanceToNeighbor;
+                if (timeToNeighbor >= distances[neighbor])  
+                    continue;
+                
+                distances[neighbor] = timeToNeighbor;
+                pq.emplace(timeToNeighbor, neighbor);
             }
         }
 
-        int maxTime = *max_element(dist.begin(), dist.end());
+        int maxTime = *max_element(distances.begin(), distances.end());
         return maxTime == INT_MAX ? -1 : maxTime;
     }
 };
