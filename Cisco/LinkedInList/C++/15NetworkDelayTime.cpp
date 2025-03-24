@@ -20,7 +20,6 @@ public:
 
         MinHeap<pair<int, int>> pq;
         vector<int> distances(n, INT_MAX);
-
         pq.emplace(0, k - 1);
         distances[k - 1] = 0;
 
