@@ -20,7 +20,7 @@ public:
 
         MinHeap<pair<int, int>> pq;
         vector<int> distances(n, INT_MAX);
-        
+
         pq.emplace(0, k - 1);
         distances[k - 1] = 0;
 
@@ -35,9 +35,8 @@ public:
             for (const auto &[neighbor, distanceToNeighbor] : graph[current])
             {
                 int timeToNeighbor = timeToCurrent + distanceToNeighbor;
-                if (timeToNeighbor >= distances[neighbor])  
+                if (timeToNeighbor >= distances[neighbor])
                     continue;
-                
                 distances[neighbor] = timeToNeighbor;
                 pq.emplace(timeToNeighbor, neighbor);
             }
