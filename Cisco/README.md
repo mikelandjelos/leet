@@ -65,7 +65,8 @@
    2. [x] Python [solution](./GitHubList/Python/1_2WordSearchII.py);
    3. [x] C++ [solution](./GitHubList/C++/1_2WordSearchII.cpp);
 2. [x] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/) - **matrix**:
-   1. [ ] [solution](./GitHubList/Python/2RotateTheMatrixInPlace.py);
+   1. [x] Python [solution](./GitHubList/Python/2RotateTheMatrixInPlace.py);
+   2. [x] C++ [solution](./GitHubList/C++/2RotateImage.cpp);
 3. [x] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/) - **two-pointers**:
    1. [ ] Python [solution](./GitHubList/Python/3ExpressiveWords.py);
 4. [x] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/) - **DP**:
@@ -93,3 +94,7 @@
 17. [ ] [**121. 🟢 Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 18. [ ] [**724. 🟢 Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/)
 19. [ ] [**56. 🟡 Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)
+
+## Leet Company-wise problems
+
+- TBA;
