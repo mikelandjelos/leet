@@ -77,9 +77,11 @@
    1. [x] Python [solution](./GitHubList/Python/5ValidIpAddress.py);
    2. [x] C++ [solution](./GitHubList/C++/5ValidateIpAddress.cpp);
 6. [x] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/) - **stack**:
-   1. [ ] Python [solution](./GitHubList/Python/6DecodeString.py);
+   1. [x] Python [solution](./GitHubList/Python/6DecodeString.py);
+   2. [x] C++ [solution](./GitHubList/C++/6DecodeString.cpp);
 7. [x] [**198. 🟡 House Robber**](https://leetcode.com/problems/house-robber/description/) - **DP**:
-   1. [ ] Python [solution](./GitHubList/Python/7HouseRobber.py);
+   1. [x] Python [solution](./GitHubList/Python/7HouseRobber.py);
+   2. [x] C++ [solution](./GitHubList/C++/7HouseRobber.cpp);
 8. [x] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) - **two-pointer**:
    1. [ ] Python [solution](./GitHubList/Python/8MaximumDifferenceBetweenIncreasingElements.py);
 9. [x] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/) - **stack**:
