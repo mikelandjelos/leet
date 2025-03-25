@@ -89,7 +89,8 @@
    1. [x] Python [solution](./GitHubList/Python/9ValidParentheses.py);
    2. [x] C++ [solution](./GitHubList/C++/9ValidParentheses.cpp);
 10. [x] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/) - **math** (number systems):
-    1. [ ] Python [solution](./GitHubList/Python/10NumberOf1Bits.py);
+    1. [x] Python [solution](./GitHubList/Python/10NumberOf1Bits.py);
+    2. [x] C++ [solution](./GitHubList/C++/10NumberOf1Bits.cpp);
 11. [x] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) - **sorting** (bucket):
     1. [ ] Python [solution](./GitHubList/Python/11TopKFrequentElements.py);
 12. [x] [**526. 🟡 Beautiful Arrangement**](https://leetcode.com/problems/beautiful-arrangement/description/) - **DP**:
