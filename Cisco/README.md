@@ -71,7 +71,8 @@
    1. [x] Python [solution](./GitHubList/Python/3ExpressiveWords.py);
    2. [x] C++ [solution](./GitHubList/C++/3ExpressiveWords.cpp);
 4. [x] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/) - **DP**:
-   1. [ ] Python [solution](./GitHubList/Python/4DecodeWays.py);
+   1. [x] Python [solution](./GitHubList/Python/4DecodeWays.py);
+   2. [x] C++ [solution](./GitHubList/C++/4DecodeWays.cpp);
 5. [x] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/) - **RE**:
    1. [ ] Python [solution](./GitHubList/Python/5ValidIpAddress.py);
 6. [x] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/) - **stack**:
