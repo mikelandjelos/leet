@@ -62,7 +62,8 @@
    1. [x] [**79. 🟡 Word Search**](https://leetcode.com/problems/word-search/description/) - **backtracking** (recursive DFS):
       1. [x] Python [solution](./GitHubList/Python/1_1WordSearch.py);
       2. [x] C++ [solution](./GitHubList/C++/1_1WordSearch.cpp);
-   2. [ ] Python [solution](./GitHubList/Python/1_2WordSearchII.py);
+   2. [x] Python [solution](./GitHubList/Python/1_2WordSearchII.py);
+   3. [x] C++ [solution](./GitHubList/C++/1_2WordSearchII.cpp);
 2. [x] [**48. 🟡 Rotate Image**](https://leetcode.com/problems/rotate-image/description/) - **matrix**:
    1. [ ] [solution](./GitHubList/Python/2RotateTheMatrixInPlace.py);
 3. [x] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/) - **two-pointers**:
