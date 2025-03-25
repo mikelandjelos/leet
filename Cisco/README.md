@@ -83,7 +83,8 @@
    1. [x] Python [solution](./GitHubList/Python/7HouseRobber.py);
    2. [x] C++ [solution](./GitHubList/C++/7HouseRobber.cpp);
 8. [x] [**2016. 🟢 Maximum Difference Between Increasing Elements**](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) - **two-pointer**:
-   1. [ ] Python [solution](./GitHubList/Python/8MaximumDifferenceBetweenIncreasingElements.py);
+   1. [x] Python [solution](./GitHubList/Python/8MaximumDifferenceBetweenIncreasingElements.py);
+   2. [x] C++ [solution](./GitHubList/C++/8MaximumDifferenceBetweenIncreasingElements.cpp);
 9. [x] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/) - **stack**:
    1. [ ] Python [solution](./GitHubList/Python/9ValidParentheses.py);
 10. [x] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/) - **math** (number systems):
