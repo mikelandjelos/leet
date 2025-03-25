@@ -68,7 +68,8 @@
    1. [x] Python [solution](./GitHubList/Python/2RotateTheMatrixInPlace.py);
    2. [x] C++ [solution](./GitHubList/C++/2RotateImage.cpp);
 3. [x] [**809. 🟡 Expressive Words**](https://leetcode.com/problems/expressive-words/description/) - **two-pointers**:
-   1. [ ] Python [solution](./GitHubList/Python/3ExpressiveWords.py);
+   1. [x] Python [solution](./GitHubList/Python/3ExpressiveWords.py);
+   2. [x] C++ [solution](./GitHubList/C++/3ExpressiveWords.cpp);
 4. [x] [**91. 🟡 Decode Ways**](https://leetcode.com/problems/decode-ways/description/) - **DP**:
    1. [ ] Python [solution](./GitHubList/Python/4DecodeWays.py);
 5. [x] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/) - **RE**:
