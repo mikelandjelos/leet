@@ -86,7 +86,8 @@
    1. [x] Python [solution](./GitHubList/Python/8MaximumDifferenceBetweenIncreasingElements.py);
    2. [x] C++ [solution](./GitHubList/C++/8MaximumDifferenceBetweenIncreasingElements.cpp);
 9. [x] [**20. 🟢 Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/description/) - **stack**:
-   1. [ ] Python [solution](./GitHubList/Python/9ValidParentheses.py);
+   1. [x] Python [solution](./GitHubList/Python/9ValidParentheses.py);
+   2. [x] C++ [solution](./GitHubList/C++/9ValidParentheses.cpp);
 10. [x] [**191. 🟢 Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/description/) - **math** (number systems):
     1. [ ] Python [solution](./GitHubList/Python/10NumberOf1Bits.py);
 11. [x] [**347. 🟡 Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) - **sorting** (bucket):
