@@ -74,7 +74,8 @@
    1. [x] Python [solution](./GitHubList/Python/4DecodeWays.py);
    2. [x] C++ [solution](./GitHubList/C++/4DecodeWays.cpp);
 5. [x] [**468. 🟡 Validate IP Address**](https://leetcode.com/problems/validate-ip-address/description/) - **RE**:
-   1. [ ] Python [solution](./GitHubList/Python/5ValidIpAddress.py);
+   1. [x] Python [solution](./GitHubList/Python/5ValidIpAddress.py);
+   2. [x] C++ [solution](./GitHubList/C++/5ValidateIpAddress.cpp);
 6. [x] [**394. 🟡 Decode String**](https://leetcode.com/problems/decode-string/description/) - **stack**:
    1. [ ] Python [solution](./GitHubList/Python/6DecodeString.py);
 7. [x] [**198. 🟡 House Robber**](https://leetcode.com/problems/house-robber/description/) - **DP**:
